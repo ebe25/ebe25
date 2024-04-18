@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning more about Full-Stack Development.<br>👯 I’m looking to collaborate on Open-Source Projects.<br>💬 Ask me about DSA,MERN Stack or any tech related stuff.<br>😄 Pronouns: He/His<br>⚡ Fun fact : Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
+🌱 I’m currently learning more about Full-Stack Development.<br>👯 I’m looking to collaborate on Open-Source Projects.<br>💬 Ask me about DSA,MERN Stack or any tech related stuff.<br>😄 Pronouns: He/His<br>⚡ Fun fact : Ctrl + C and Ctrl + V have saved more lives than Batman and Robin. 
+
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/43900bba70ccf4d73197c8da41c3bc8763e9a8762b9179ae6caf2edde3e153f9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966" data-canonical-src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 ## 🌐 Socials:
